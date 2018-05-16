@@ -35,3 +35,8 @@ print "Is it greater or equal?", 5 >= -2
 
 # test if 5 is less than or equal to -2
 print "Is it less or equal?", 5 <= -2
+
+#why is it that the first sting 25 + 30 / 6 
+results to 30 ?? 
+
+PLEASE Explain?? 
